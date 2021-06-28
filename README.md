@@ -1,6 +1,7 @@
+## About Me
+
 - 👋 Hi, I’m Tharun Kumar
 - 👀 I’m interested in Full-stack web development
-- 🌱 I’m currently learning ReactJs and nodeJs
 - 📫 Reach me at tharunk1705@gmail.com
 
 <!---
