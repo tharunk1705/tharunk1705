@@ -1,7 +1,7 @@
 ## About Me
 
 - 👋 Hi, I’m Tharun Kumar
-- 🏢 Currently Programmer Analyst Trainee at Cognizant.
+- 🏢 Currently Programmer Analyst at Cognizant.
 - 🧑‍💻 Front-end developer who can also build APIs.
 - ☁️ AWS Certified cloud practitioner.
 
